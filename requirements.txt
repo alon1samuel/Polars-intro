@@ -1,4 +1,4 @@
 pip
-polars==0.17.5
+polars==0.20.7
 ipykernel
 numpy
