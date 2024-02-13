@@ -1,15 +1,9 @@
-# 2023-Pycon-Polars
+# This is an intro notebook for polars
 
-You should be able to run this directly from github.
+Create a virtual environment (using virtualenv, conda or other...)
 
-Type period (.) to get into Codespaces
+Install polars==0.20.7, numpy and ipykernel (can do from the requirements):
 
-Open a terminal and install Polars:
+`pip install -Ur requirements.txt`
 
-    pip install polars pandas matplotlib
-
-Launch the notebook:
-
-    jupyter notebook
-
-Open the notebook file and run a cell (cntrl-enter)    
+Fill in the commands in the [work.ipynb](work.ipynb) notebook.
